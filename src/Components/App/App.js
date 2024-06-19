@@ -77,7 +77,7 @@ function App() {
   return (
     <div>
       <h1>
-        Arty's Ja<span className={styles.highlight}>mmm</span>ing
+        Arty's Juke<span className={styles.highlight}>box</span>
       </h1>
       <div className={styles.App}>
         {/* <!-- Add a SearchBar component --> */}
